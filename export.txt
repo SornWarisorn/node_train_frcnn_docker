@@ -1,0 +1,1 @@
+export PYTHONPATH=$PYTHONPATH:/home/vsa01/Desktop/tensorflow1/models/research:/home/vsa01/Desktop/tensorflow1/models/research/slim
